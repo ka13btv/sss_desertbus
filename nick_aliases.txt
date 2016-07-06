@@ -660,8 +660,7 @@
 1,robo4900,robo4900_
 1,robp,robp_
 1,rocketfox45,rocketfox45_
-1,roo_fon2,roo_fon3
-1,roosevelt,roosevelt_,rooseveltthecat_,rooseveltthecat,roosevellt,roosevelt_fon,roosevelt_gaem,roosevelt_pax,roosevelt_pls,roosevelt_popsicle,roosevelt_stupidlyloggedinagain,roosevelt_tablet,roosevelt_tablet2,roosevelt_win,roosevelt_win2,roosevelt_work,spookevelt,spooksevelt
+1,roosevelt,roosevelt_,rooseveltthecat_,rooseveltthecat,roosevellt,roosevelt_fon,roosevelt_gaem,roosevelt_pax,roosevelt_pls,roosevelt_popsicle,roosevelt_stupidlyloggedinagain,roosevelt_tablet,roosevelt_tablet2,roosevelt_win,roosevelt_win2,roosevelt_work,spookevelt,spooksevelt,roo_fon2,roo_fon3
 1,rootbreaker,rootbreaker_
 1,rosenightshade,rosenightshade_
 1,roukillingtime,rou-killingtime
