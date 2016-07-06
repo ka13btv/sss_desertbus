@@ -1,5 +1,5 @@
 # sss_desertbus
-superseriousstats config for the DesertBus community IRC chat
+[superseriousstats](https://github.com/tommyrot/superseriousstats/) config for the DesertBus community IRC chat
 
 ## installation
 Symlink parser_weechat.php to your superseriousstats directory
