@@ -11,6 +11,10 @@ Symlink vars.php to your stats website directory
 `ln -s /path/to/sss_config/vars.php /path/to/sss_www/vars.php`
 
 ## running superseriousstats
+Split single .weechatlog file into daily .weechatlogs
+
+`splitLogs.py -f /path/to/.weechatlog -p /path/to/daily/logs/newserver.desertbus. -s .weechatlog`
+
 Import new daily logs, and generate stats page
 
 `php -d memory_limit=512M sss.php -c /path/to/sss_desertbus/desertbus.conf -i /path/to/daily/logs -o ~/path/to/sss_www/index.html`
