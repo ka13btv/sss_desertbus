@@ -7,6 +7,7 @@
 3,heufybot,heufybot2,hoofybot,huefybot,re_heufybot,pyheufybot
 3,hubbot,hubbot_,hubbot__
 3,memebot
+3,nopebot
 3,pymoronbot,pymoronbot_,pymoronbottemp,pymoronbutt,moronbot
 3,robobo,robobo_
 3,safebot
