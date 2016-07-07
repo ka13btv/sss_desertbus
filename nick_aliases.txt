@@ -11,8 +11,7 @@
 3,nopebot
 3,pymoronbot,pymoronbot_,pymoronbottemp,pymoronbutt,moronbot
 3,robobo,robobo_
-3,safebot
-3,unsafebot,unsafebot_
+3,safebot,unsafebot,unsafebot_
 1,__varitel__,__varitel___,varitel
 1,_joey,joey
 1,a_t,a_t_,a_t__
@@ -83,7 +82,7 @@
 1,benjenisdaario,benjenisdaario__
 1,bertz,bertz_
 1,bertzz,bertzz_,bertzz__
-1,billthecat,billthecat_,robobilltcat,billthephon
+1,billthecat,billthecat_,robobilltcat,billthephone,biiithecat,billtcat,billtehcat,billthebat,billthecait,billthecrazycat,billtheduck,billthelunch,billthephon,billthepi
 1,binkystalls,binkystalls_
 1,blast_hardcheese,blast-hardcheese
 1,blastedt,blastedt1
@@ -130,7 +129,7 @@
 1,captainrobert,captainrobert1111,capnrobert,capnroberts,captainnrobert,captainnrobert-work,captainrobert-work
 1,captainspam,captainspam_,captain_captainspam,captainspamphone
 1,cardshark,cardshark_
-1,carl_,carl,carl|
+1,carl_,carl,carl|,carl_miller
 1,catelite,cate,cate[200ft],cate[50ft]
 1,catsrock85_,catsrock85
 1,celestya,celestya_
@@ -149,8 +148,7 @@
 1,chipptunes,chipptunes_
 1,chrusher,chrusher_,doctor_chrusher
 1,chton,chton2
-1,chuzzle,chuzzle_,chuzzle_2,chuzzle|2,chuzzl,chuzzle_school,chuz|away,chuz|awaymurr,chuz|awy,chuz|phone,chuz|train
-1,chuz|school,chuz_school
+1,chuzzle,chuzzle_,chuzzle_2,chuzzle|2,chuzzl,chuzzle_school,chuz|away,chuz|awaymurr,chuz|awy,chuz|phone,chuz|train,chuz|school,chuz_school
 1,chrono2x,chrono2x_alt,chrono2x_lap,
 1,cider,cider_
 1,ckiv,ckiv_
@@ -172,8 +170,7 @@
 1,crazymax46,crazymax462,crazymax46browser,crazymax46|browser
 1,creed_,creed
 1,crypto55,crypto
-1,cuddlyblade,cuddlyblade_
-1,cuddlyblade_pc,cuddlybladepc
+1,cuddlyblade,cuddlyblade_,cuddlyblade_pc,cuddlybladepc
 1,culturalgeekgirl,culturalgeekgirl_
 1,cultureshock007,cultureshock007_
 1,cutter069,cutter069_
@@ -184,13 +181,11 @@
 1,dacymus,dacymus_
 1,daktoathegreat,daktoa_the_great,daktoathegreat_
 1,daneislazy,daneislazy_
-1,danielle,danielle2,danielle_
-1,danielle_pepin,daniellepepin
 1,dark_,dark
 1,dark_kitten,dark_kitten_
 1,darktan,darktan_
 1,darth_vad3r,darth_vad3r_
-1,dave,dave17,dave302,dave35
+1,dave,dave_random
 1,david,david_
 1,davro,davro_
 1,dbcommand,dbcommand_
@@ -243,7 +238,7 @@
 1,eivind_,eivind
 1,ekimekim,ekimekim_,ekimekim__,ekimekim___,ekimekim____,ekimekim________,ekimekim|9,ekimekim|laptop,ekimekim|laptop_,ekimekim|laptop__,ekimekim|work,ekimekim|work|5,ekim,ekim\home,ekimekim|2,ekimekim|4,ekimekim|5,ekimekim|6,ekimekim|blah,ekimekim|butt,ekimekim|dawnguard,ekimekim|dead,ekimekim|fon,ekimekim|foo,ekimekim|jetlag,ekimekim|jircs,ekimekim|mobile,ekimekim|nacl,ekimekim|nightwatch,ekimekim|pax,ekimekim|perx,ekimekim|phone,ekimekim|scurb,ekimekim|test,ekimekim|unconcious,ekimekim|windows,ekimekim|work|0,ekimekim|work|9,ekimekim|zetashift,ekimfon,ekim|fon,ekim|phone,ekim|win
 1,elah,elah806,elah___,elah_____,elah[dead],elah[foodinface],elah[laundry],elah[scienceyshower],elah[vocal-takes-all-day],elah[zzz],elah[zzzzzzzzzzzzzz]
-1,eldrazioutlaw,eldrazioulaw,eldrazioutlawn,eldrazioutlawphone,eldrazioutlaw|2,eldrazioutlaw|3,eldraziphone,eldrazisims,eldrazitrain,eldraziuni,eldrazyoutlaw,ghosteldrazi,ooutlaweldrazi,sleepyoutlaw,sleepysnoozyeldrazi
+1,eldrazioutlaw,eldrazioulaw,eldrazioutlawn,eldrazioutlawphone,eldrazioutlaw|2,eldrazioutlaw|3,eldraziphone,eldrazisims,eldrazitrain,eldraziuni,eldrazyoutlaw,ghosteldrazi,ooutlaweldrazi,sleepyoutlaw,sleepysnoozyeldrazi,outlaw,outlaw2
 1,elementalalchemist,alchy|hotel,alchy|jerks,alchy|jircs,alchy|telnet,alchy|test,alchy,alchy|2
 1,elihuaran,elihu_aran
 1,elominsha,elomin_sha
@@ -301,7 +296,7 @@
 1,gentlymad,gentlymad_,gentlymad__
 1,ghost,ghost__
 1,ghost_of_aislinn,ghost_of_aislinn_
-1,ghostofzero,kittehzero
+1,ghostofzero,kittehzero,zero
 1,gigabowler,gigabowler_
 1,gilles,gilles|pax
 1,ginose,ginose_
@@ -317,7 +312,7 @@
 1,gruenhals,gruenhals_
 1,guidance,guidance_
 1,gulleko,gulleko_
-1,h--moon,h--moon_,h--moon|2,h-_-moon,h-__-moon,h-moon,h-moon|2,h--causefuckmoon,h--fightthepower,h--moon[sucks],h--notmoonbecauseheisajerk,h--tiredofloggingin-moon,h-ardlystable-moon,h-dumb,h-fucking-moon,h-goaway-moon,h-hatedbynickserv-moon,h-hulk,h-ihatenicserv-moon,h-isforhorific-moon,h-mobilcoker,h-mobilmoon,h-moon[fightthepower],h-moon[isfordumbs],h-moon_,h-mooning-moon,h-moonymoon,h-motherbussing-moon,h-nobadylikesyoumoon-moon,h-not-moon,h-notasgoodasbilly-moon,h-notreally-moon,h-piceofshit-moon,h-pileof-moon,h-shittymoon,h-silly-moon,h-someoneshoulddispatchof-moon,h-theshittestoflords-moon,h-uncooth-moon,h-waste-moon,h-whyareyouhearyoufuck-moon,h-whyareyouhereyoufuck-moon,h-worsethenbillypilgrim-moon,h-bussing-moon,h-bussingmoon,mobilemoon,noom--h--moon,noom-gnikcuf-h
+1,h--moon,h--moon_,h--moon|2,h-_-moon,h-__-moon,h-moon,h-moon|2,h--causefuckmoon,h--fightthepower,h--moon[sucks],h--notmoonbecauseheisajerk,h--tiredofloggingin-moon,h-ardlystable-moon,h-dumb,h-fucking-moon,h-goaway-moon,h-hatedbynickserv-moon,h-hulk,h-ihatenicserv-moon,h-isforhorific-moon,h-mobilcoker,h-mobilmoon,h-moon[fightthepower],h-moon[isfordumbs],h-moon_,h-mooning-moon,h-moonymoon,h-motherbussing-moon,h-nobadylikesyoumoon-moon,h-not-moon,h-notasgoodasbilly-moon,h-notreally-moon,h-piceofshit-moon,h-pileof-moon,h-shittymoon,h-silly-moon,h-someoneshoulddispatchof-moon,h-theshittestoflords-moon,h-uncooth-moon,h-waste-moon,h-whyareyouhearyoufuck-moon,h-whyareyouhereyoufuck-moon,h-worsethenbillypilgrim-moon,h-bussing-moon,h-bussingmoon,mobilemoon,noom--h--moon,noom-gnikcuf-h,not_h-moon,not-h-moon
 1,hagios,hagios_
 1,hal6400,hal6400_,hal_6400
 1,halfaringcircus,halfaringcircus_
@@ -472,7 +467,7 @@
 1,lostthepirate,lostthepirate_
 1,louis,louis2,louis_
 1,lowbatterylife,lowbatterylife|2
-1,luckieduckie,luckieaway,luckieduckie2,luckieduckie_,luckieduckie__,luckie|away,badassduckie,badduckie,captainluckieduckie,chocolateduckie,derpyduckie,dirtyduckie,duckie,duckie-sempai,duckieluckie,emperessduckie,emperorduckie,festiveduckie,ghostduckie,jellieduckie,kittehduckietentacles,loudduckie,luckiduckie,luckie,luckieabsentie,luckieafrica,luckieai,luckieaicannibal,luckiealexis,luckieargh,luckiebadass,luckieballoon,luckiebatman,luckieboo,luckiebooped,luckiebox,luckiebro,luckiebunneh,luckiebunnehnewt,luckieburned,luckiebusser,luckiebusy,luckiecaffeinated,luckiecanadianduckula,luckiechange,luckieclick,luckiecreamed,luckiecupcake,luckiecuredduckie,luckiedanielle,luckiedarkwingduckie,luckiedemon,luckiedevil,luckiedino,luckiedix,luckiedragon,luckieduckie|afk,luckieduckie|away,luckieduckie|busy,luckieduckie|drawing,luckieduckie|sleeps,luckieduckie|washy,luckieduckula,luckieevil,luckieexploded,luckiefixit,luckiefloppedon,luckiefml,luckiefool,luckiefoxy,luckiefront,luckiegizmoduckie,luckieglitters,luckiegoat,luckiegoldengoose,luckiegoose,luckiegoosebumps,luckiegotobedalready,luckiegrimless,luckiegrumpie,luckiegunner,luckiehalfnewt,luckiehorse,luckiehungry,luckiehungrypopcicle,luckieinspace,luckieinvisible,luckiejellyfish,luckiekilly,luckiekim,luckiekisses,luckiekitteh,luckiekittehcannon,luckieknite,luckielegcramp,luckielime,luckielion,luckieloonie,luckielubed,luckiemage,luckiemagnet,luckieman,luckiemaster,luckiemermaid,luckiemite,luckiemod,luckiemover,luckiemower,luckienavi,luckienecktienewt,luckienewt,luckienewtai,luckienewtforlife,luckienewthead,luckienewtheart,luckienewtleg,luckienewtpants,luckienewtrality,luckienewt|afk,luckienothere,luckieobsolete,luckieoctopus,luckieoff,luckieoutlaw,luckieox,luckiepainy,luckiephone,luckiepirate,luckiepokemon,luckiepony,luckiepopcicle,luckiepopeye,luckieproxieduckie,luckiepussie,luckiepussy,luckieragingfury,luckiereaper,luckieroboduck,luckierock,luckiesad,luckiesandman,luckiesaucy,luckieseagull,luckiesleeplessintoronto,luckiesleepy,luckieslug,luckiesnail,luckiesnuggluppagus,luckiespider,luckiespoop,luckiesquid,luckiesquid_evil,luckiesunshine|away,luckiesuperbowl,luckietentacle,luckietentacles,luckietornado,luckietorontonian,luckietrain,luckietree,luckietroll,luckieturkey,luckieturkienewt,luckieuselessalias,luckievampire,luckiewik,luckiewizard,luckiewtfthisbreadtasteslikedoh,luckiezombie,luckiezombiefailsnail,luckie|afk,luckinewt,lucknewt,luckyai,luckyducky,nekedsleepyduckie,queenluckieduckie,sixfootduckie,sleepyduckie,sneezyduckie,tentaclesduckula,unluckieduckie,unluckienewt
+1,luckieduckie,luckieaway,luckieduckie2,luckieduckie_,luckieduckie__,luckie|away,badassduckie,badduckie,captainluckieduckie,chocolateduckie,derpyduckie,dirtyduckie,duckie,duckie-sempai,duckieluckie,emperessduckie,emperorduckie,festiveduckie,ghostduckie,jellieduckie,kittehduckietentacles,loudduckie,luckiduckie,luckie,luckieabsentie,luckieafrica,luckieai,luckieaicannibal,luckiealexis,luckieargh,luckiebadass,luckieballoon,luckiebatman,luckieboo,luckiebooped,luckiebox,luckiebro,luckiebunneh,luckiebunnehnewt,luckieburned,luckiebusser,luckiebusy,luckiecaffeinated,luckiecanadianduckula,luckiechange,luckieclick,luckiecreamed,luckiecupcake,luckiecuredduckie,luckiedanielle,luckiedarkwingduckie,luckiedemon,luckiedevil,luckiedino,luckiedix,luckiedragon,luckieduckie|afk,luckieduckie|away,luckieduckie|busy,luckieduckie|drawing,luckieduckie|sleeps,luckieduckie|washy,luckieduckula,luckieevil,luckieexploded,luckiefixit,luckiefloppedon,luckiefml,luckiefool,luckiefoxy,luckiefront,luckiegizmoduckie,luckieglitters,luckiegoat,luckiegoldengoose,luckiegoose,luckiegoosebumps,luckiegotobedalready,luckiegrimless,luckiegrumpie,luckiegunner,luckiehalfnewt,luckiehorse,luckiehungry,luckiehungrypopcicle,luckieinspace,luckieinvisible,luckiejellyfish,luckiekilly,luckiekim,luckiekisses,luckiekitteh,luckiekittehcannon,luckieknite,luckielegcramp,luckielime,luckielion,luckieloonie,luckielubed,luckiemage,luckiemagnet,luckieman,luckiemaster,luckiemermaid,luckiemite,luckiemod,luckiemover,luckiemower,luckienavi,luckienecktienewt,luckienewt,luckienewtai,luckienewtforlife,luckienewthead,luckienewtheart,luckienewtleg,luckienewtpants,luckienewtrality,luckienewt|afk,luckienothere,luckieobsolete,luckieoctopus,luckieoff,luckieoutlaw,luckieox,luckiepainy,luckiephone,luckiepirate,luckiepokemon,luckiepony,luckiepopcicle,luckiepopeye,luckieproxieduckie,luckiepussie,luckiepussy,luckieragingfury,luckiereaper,luckieroboduck,luckierock,luckiesad,luckiesandman,luckiesaucy,luckieseagull,luckiesleeplessintoronto,luckiesleepy,luckieslug,luckiesnail,luckiesnuggluppagus,luckiespider,luckiespoop,luckiesquid,luckiesquid_evil,luckiesunshine|away,luckiesuperbowl,luckietentacle,luckietentacles,luckietornado,luckietorontonian,luckietrain,luckietree,luckietroll,luckieturkey,luckieturkienewt,luckieuselessalias,luckievampire,luckiewik,luckiewizard,luckiewtfthisbreadtasteslikedoh,luckiezombie,luckiezombiefailsnail,luckie|afk,luckinewt,lucknewt,luckyai,luckyducky,nekedsleepyduckie,queenluckieduckie,sixfootduckie,sleepyduckie,sneezyduckie,tentaclesduckula,unluckieduckie,unluckienewt,danielle,danielle2,danielle,danielle_pepin,daniellepepin
 1,luckystrikeforce,luckystrikeforce_
 1,lumar_,lumar
 1,luna,luna_
@@ -561,7 +556,6 @@
 1,norwester,norwester_
 1,nos42,nos42_
 1,not_a_horse,not_a_horse__
-1,not_h-moon,not-h-moon
 1,nova,novadale
 1,noy2222,noy2,noy222,noy2222-work,noy2222[la972],noy2222[la],noy2222[lamibbit],noy2222[lamibbit]],noy2222_work,noy5731,noy_2222,kittynoy,notnoy2222,noy2222[[werk],noy2222[airpert],noy2222[airport],noy2222[dbing],noy2222[l],noy2222[la90percentfat],noy2222[la90percentpony],noy2222[laa],noy2222[laal],noy2222[labamba],noy2222[labed],noy2222[labirthday],noy2222[lacough],noy2222[lacreativity],noy2222[lacrisps],noy2222[ladiamond],noy2222[ladoughnut],noy2222[laenslaveler],noy2222[lafine],noy2222[lafirst],noy2222[lagamba],noy2222[lagambia],noy2222[lagold],noy2222[laguardia],noy2222[lakinder],noy2222[lala],noy2222[lalady],noy2222[lalala],noy2222[lalalala],noy2222[lalalalala],noy2222[lalava],noy2222[laleft],noy2222[laleftabstart9],noy2222[lalog],noy2222[lalowhp],noy2222[lamuffine],noy2222[lamurmur],noy2222[lanever],noy2222[lanick],noy2222[lano],noy2222[lantfs],noy2222[lanumber],noy2222[lapanic],noy2222[lapanties],noy2222[lapants],noy2222[lapapakaramba],noy2222[lapapapapatop],noy2222[lapinkie],noy2222[laplaptoptop],noy2222[lappapa],noy2222[lappapapapata],noy2222[lappop],noy2222[lappotop],noy2222[lappy],noy2222[lappytop],noy2222[laprofit],noy2222[laptop],noy2222[laptopping],noy2222[laptoppinging],noy2222[laptoptop],noy2222[laquark],noy2222[laquatra],noy2222[laroaming],noy2222[laroomba],noy2222[lasafe],noy2222[laselect],noy2222[lasim],noy2222[lasleepy],noy2222[lasoapy],noy2222[lasocialist],noy2222[lasomething],noy2222[laspace],noy2222[lastupid],noy2222[latop],noy2222[latoptop],noy2222[latpop],noy2222[latrainer],noy2222[latree],noy2222[lawhynot],noy2222[lawoe],noy2222[lawoo],noy2222[laxny],noy2222[lazonkey],noy2222[mibbit],noy2222[mibbitting],noy2222[phone],noy2222[prison],noy2222[talopp],noy2222[taltop],noy2222[toplap],noy2222[werk],noy2222[wiiu],noy2222[wurk],noy2222_l,noy2222a,noy2222bicycle,noy2222car,noy2222m,noy2222s_ass,noy2222s_brain,noy2222s_mother,noy2222s_mouth,noy2222s_stomach,noy222[lafighting],noy222[laptop],noy222[lasell],sir_noy2222,werekittynoy
 1,nucleomancer,nucleomancer_
@@ -582,7 +576,6 @@
 1,opie,opie74
 1,orannis,orannis_
 1,orion,orion_
-1,outlaw,outlaw2
 1,owner_,owner__
 1,palepail,palepail_
 1,pandas_and_pancakes,pandas__and_pancakes,pandas_and_pancakes_,pandas_and_pancakes__,pandasandpancakes
