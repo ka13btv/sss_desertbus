@@ -479,7 +479,7 @@
 1,madrak_the_red,madrak_the_red_
 1,madtheorist,madtheorist_
 1,maf,maf_
-1,magnatek,magna|dmc,magna|persona2,magna|pn2,magna|portal2,magna|sonic,magna|xenoblade
+1,magnatek,magna|dmc,magna|persona2,magna|pn2,magna|portal2,magna|sonic,magna|xenoblade,tekkieman
 1,makr,makr|atscouts
 1,malfunct,malfunct_,malfunct`
 1,mara,__mara,ma\ra,mara2,mara5,mara_
