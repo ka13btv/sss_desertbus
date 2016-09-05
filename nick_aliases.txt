@@ -366,6 +366,7 @@
 1,iserguy,iserguy_,iserguy__
 1,isxdix,isxdix2
 1,itazu,itazu_,ghostytazu
+1,j,jace
 1,jack,jack_
 1,jack_king,jack_king_
 1,jake,jake_
