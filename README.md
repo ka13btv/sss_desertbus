@@ -13,7 +13,9 @@ Symlink vars.php to your stats website directory
 Add generation script and database backup to cron (every 3 hours and at 00:10 every day respectively)
 
 `crontab -e`
+
 `0 */3 * * * /home/tyranic-moron/stats_gen/sss_desertbus/genStats.sh`
+
 `10 0 * * * logrotate --state /home/tyranic-moron/stats_gen/sss_desertbus/logrotate.status/home/tyranic-moron/stats_gen/sss_desertbus/logrotate.conf`
 
 ## running superseriousstats
