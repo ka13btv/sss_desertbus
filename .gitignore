@@ -1,1 +1,3 @@
 *.db3
+backup/*
+logrotate.status
