@@ -2,16 +2,23 @@
 
 import argparse
 import re
+import gzip
 
 parser = argparse.ArgumentParser(description='Script to split .weechatlog files by day')
 parser.add_argument('-f', '--file', help='file to split up', type=str, required=True)
 parser.add_argument('-p', '--prefix', help='prefix for output file', type=str, default='')
 parser.add_argument('-s', '--suffix', help='suffix for output file', type=str, default='')
+parser.add_argument('-c', '--compress', help='compress the resulting log files with gzip', action='store_true')
 args = parser.parse_args()
 
 def writeLog(date, lines):
-    with open("{}{}{}".format(args.prefix, date, args.suffix), 'w') as output:
-        output.writelines(lines)
+    fname = "{}{}{}".format(args.prefix, date, args.suffix)
+    if args.compress:
+        with gzip.open("{}.gz".format(fname), mode='wb') as output:
+            output.writelines(lines)
+    else:
+        with open(fname, 'w') as output:
+            output.writelines(lines)
 
 with open(args.file, 'r') as wlog:
     oneLogFile = []
