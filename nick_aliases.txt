@@ -314,7 +314,7 @@
 1,gruenhals,gruenhals_
 1,guidance,guidance_
 1,gulleko,gulleko_
-1,h--moon,h--moon_,h--moon|2,h-_-moon,h-__-moon,h-moon,h-moon|2,h--causefuckmoon,h--fightthepower,h--moon[sucks],h--notmoonbecauseheisajerk,h--tiredofloggingin-moon,h-ardlystable-moon,h-dumb,h-fucking-moon,h-goaway-moon,h-hatedbynickserv-moon,h-hulk,h-ihatenicserv-moon,h-isforhorific-moon,h-mobilcoker,h-mobilmoon,h-moon[fightthepower],h-moon[isfordumbs],h-moon_,h-mooning-moon,h-moonymoon,h-motherbussing-moon,h-nobadylikesyoumoon-moon,h-not-moon,h-notasgoodasbilly-moon,h-notreally-moon,h-piceofshit-moon,h-pileof-moon,h-shittymoon,h-silly-moon,h-someoneshoulddispatchof-moon,h-theshittestoflords-moon,h-uncooth-moon,h-waste-moon,h-whyareyouhearyoufuck-moon,h-whyareyouhereyoufuck-moon,h-worsethenbillypilgrim-moon,h-bussing-moon,h-bussingmoon,mobilemoon,noom--h--moon,noom-gnikcuf-h,not_h-moon,not-h-moon
+1,h--moon,h--moon_,h--moon|2,h-_-moon,h-__-moon,h-moon,h-moon|2,h--causefuckmoon,h--fightthepower,h--moon[sucks],h--notmoonbecauseheisajerk,h--tiredofloggingin-moon,h-ardlystable-moon,h-dumb,h-fucking-moon,h-goaway-moon,h-hatedbynickserv-moon,h-hulk,h-ihatenicserv-moon,h-isforhorific-moon,h-mobilcoker,h-mobilmoon,h-moon[fightthepower],h-moon[isfordumbs],h-moon_,h-mooning-moon,h-moonymoon,h-motherbussing-moon,h-nobadylikesyoumoon-moon,h-not-moon,h-notasgoodasbilly-moon,h-notreally-moon,h-piceofshit-moon,h-pileof-moon,h-shittymoon,h-silly-moon,h-someoneshoulddispatchof-moon,h-theshittestoflords-moon,h-uncooth-moon,h-waste-moon,h-whyareyouhearyoufuck-moon,h-whyareyouhereyoufuck-moon,h-worsethenbillypilgrim-moon,h-bussing-moon,h-bussingmoon,mobilemoon,noom--h--moon,noom-gnikcuf-h,not_h-moon,not-h-moon,princessyaoiface
 1,hagios,hagios_
 1,hal6400,hal6400_,hal_6400
 1,halfaringcircus,halfaringcircus_
@@ -339,7 +339,7 @@
 1,hg_pelts,hgpelts
 1,hiramas,hiramas_,hiramas__,hiramas|2,hiramas|mobile,hiramas|mobile1,hira,hira_gas,hira_tab,hiraghast,hiraghost,hiramas_win,hiramasofthedead,hiramas|abitlesssicknow,hiramas|catonkeyboard,hiramas|sick,hiramas|tablet,hirams,hiraphone
 1,his_ryanness,his_ryanness_
-1,hkitain,hkitain1,hkitain_home,hkitain|home,hkitain_butt,hkitain_work,hkitain|mobile,hkitain|more_coffee,hkitain|ogencyan,hkitain|popcorn,hkitain|roid,hkitain|work,okitain,okitain_,okitain|butte
+1,hkitain,hkitain1,hkitain_home,hkitain|home,hkitain_butt,hkitain_work,hkitain|mobile,hkitain|more_coffee,hkitain|ogencyan,hkitain|popcorn,hkitain|roid,hkitain|work,okitain,okitain_,okitain|butte,hkitten
 1,hollyberries1990,hollyberries1990_
 1,holy_hotdog,holy_hotdog_
 1,homoglyph,homoglyphz,dinocrittehglyph,dinoglyph,dinokittehglyph,ghlyffe,glyffe,glyph,hoemglyph,homogiyph,hulkoglyph,kittehglyph,nothinglyph,sologlyph,workglyph,workinglyph
