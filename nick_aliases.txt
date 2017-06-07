@@ -662,7 +662,7 @@
 1,rootbreaker,rootbreaker_
 1,rosenightshade,rosenightshade_
 1,roukillingtime,rou-killingtime
-1,rucdoc,rucdoc_,heinz_doofenshertz,heinz_doofenshertz_,heinz_doofenshertz__
+1,rucdoc,rucdoc_,rucabout,heinz_doofenshertz,heinz_doofenshertz_,heinz_doofenshertz__
 1,rule,rule_
 1,rurouken,rurouken_
 1,russell__,russell,russell_
