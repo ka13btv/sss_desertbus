@@ -677,7 +677,7 @@
 1,samkvi,samkvi|2
 1,sammy-boy,sammy-boy_
 1,samsoneffect_,samsoneffect
-1,sani,sanidroid,sanity,sanityis0verrated,sanityismobile,sanityisoverrated,sanityisroaming,sanityiswandering,sanitywork
+1,sanityisoverrated,sani,sanidroid,sanity,sanityis0verrated,sanityismobile,sanityisroaming,sanityiswandering,sanitywork
 1,sascha,sascha_
 1,sash_,sash
 1,satchamobob,satchamobob_
