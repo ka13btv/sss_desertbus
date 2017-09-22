@@ -2,6 +2,7 @@
 3,bidbotecho,bidbot
 3,bidserv
 3,bojii,bojii_
+3,delegatorbot
 3,diderobot,diderobot_,diderobot_test
 3,ekimbot,ekimbot-unbound,ekimbot_dev,ekimbot|4,ekimtestbot
 3,grapheme
