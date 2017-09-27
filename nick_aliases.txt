@@ -812,7 +812,7 @@
 1,tom_,tom,tom666
 1,topspot123,topspot123_
 1,tractor__,tractor_
-1,trahsi,trahsimobile
+1,trahsi,trahsimobile,aeltrius,trahsidroid
 1,transmit,transmit_
 1,tribble-tribal,tribble_tribal
 1,trishalynn,trisha_lynn
