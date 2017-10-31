@@ -52,7 +52,7 @@
 1,anthony__,anthony
 1,antman,antman13579,antman9000,antman_
 1,antman-phone,antman-phone2
-1,anubis169,anubis169|aw,anubis169|away,anubis169|fixingnicks,anubis169|hkitainsbananas,anubis169|hkitainspopcorn,anubis169|stuckinm33ting,anubis169|tr4v3lthing,anubis169|w0rkthing,anubis170|w0rkthing
+1,anubis169,anubis169|aw,anubis169|away,anubis169|fixingnicks,anubis169|hkitainsbananas,anubis169|hkitainspopcorn,anubis169|stuckinm33ting,anubis169|tr4v3lthing,anubis169|w0rkthing,anubis170|w0rkthing,dreadpirateroberts
 1,aranea,aranea_
 1,area,area_
 1,armadillo_al,armadillo_al_
@@ -219,7 +219,7 @@
 1,divinemissbee,divinemissbee_
 1,djgamer,djgamer_
 1,doc_cadence,doc_cadence_
-1,doctorgyarados,doctor_gyarados,doctorgyarados|away,doctorgyaradosaway,doctorgyaradroid,doctor_gyaradroid,docket,docket_2,doc-torgyarados,docg,docgbutts,docg|gyara,docketgyarados,docketsfingers,doctaeryrados,doctergyarados,doctor_z,doctoraerydos,doctordaverados,doctordeadrados,doctordipados,doctordonna,doctorfullados,doctorfullerdos,doctorg,doctorgame,doctorgarytoes,doctorgyar,doctorgyarabro,doctorgyarabutt,doctorgyaradave,doctorgyaradead,doctorgyaradis,doctorgyaradoesnt,doctorgyaradoge,doctorgyarados|gaem,doctorgyaraghost,doctorgyaramac,doctorgyaratwerk,doctorgyarawool,doctorgyardos,doctorgyrados,doctorgyroid,doctorhairados,doctorheufneutjdos,doctorspoopados,doktorgyarados,doktorjyarados,gyra,gyradroid,gyaradroid,guarantors,senatorthreebabies,senpai
+1,doctorgyarados,doctor_gyarados,doctorgyarados|away,doctorgyaradosaway,doctorgyaradroid,doctor_gyaradroid,docket,docket_2,doc-torgyarados,docg,docgbutts,docg|gyara,docketgyarados,docketsfingers,doctaeryrados,doctergyarados,doctor_z,doctoraerydos,doctordaverados,doctordeadrados,doctordipados,doctordonna,doctorfullados,doctorfullerdos,doctorg,doctorgame,doctorgarytoes,doctorgyar,doctorgyarabro,doctorgyarabutt,doctorgyaradave,doctorgyaradead,doctorgyaradis,doctorgyaradoesnt,doctorgyaradoge,doctorgyarados|gaem,doctorgyaraghost,doctorgyaramac,doctorgyaratwerk,doctorgyarawool,doctorgyardos,doctorgyrados,doctorgyroid,doctorhairados,doctorheufneutjdos,doctorspoopados,doktorgyarados,doktorjyarados,gyra,gyradroid,gyaradroid,guarantors,senatorthreebabies,senpai,doctorscarydos,gyaradread
 1,doctormia_,doctormia
 1,donated-from-germany,donated-from-germany_
 1,dondon_,dondon
