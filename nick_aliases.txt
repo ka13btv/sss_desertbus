@@ -829,7 +829,7 @@
 1,tux789_,tux789__
 1,twodeetwowill,twodeetwowill_
 1,twostepz,twostepz-work
-1,tyranic-moron,starlitghost,t-m[work],t-m|work,tyranic-moron|2,tyranic_moron,tyranicmoron,t-m,t-m[pirate],t-mork,t-m|android,t-m|asleep,t-m|bork,t-m|brork,t-m|chicago,t-m|dip,t-m|jirc,t-m|kwirc,t-m|lunch,t-m|mehbehwork,t-m|pax,t-m|phone,t-m|s3,t-m|seattle,t-m|space,t-m|train,t-m|twerk,tyranic-moron|meng
+1,starlitghost,tyranic-moron,t-m[work],t-m|work,tyranic-moron|2,tyranic_moron,tyranicmoron,t-m,t-m[pirate],t-mork,t-m|android,t-m|asleep,t-m|bork,t-m|brork,t-m|chicago,t-m|dip,t-m|jirc,t-m|kwirc,t-m|lunch,t-m|mehbehwork,t-m|pax,t-m|phone,t-m|s3,t-m|seattle,t-m|space,t-m|train,t-m|twerk,tyranic-moron|meng
 1,tytycoon,tytycoon_
 1,u2k,u2k_
 1,ufokraana,ufokraana_
