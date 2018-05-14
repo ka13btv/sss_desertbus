@@ -1,6 +1,8 @@
 # sss_desertbus
 [superseriousstats](https://github.com/tommyrot/superseriousstats/) config for the DesertBus community IRC chat
 
+Stats hosted at [stats.dbcommunity.org](http://stats.dbcommunity.org)
+
 ## installation
 Symlink parser_weechat.php to your superseriousstats directory
 
@@ -14,9 +16,9 @@ Add generation script and database backup to cron (every 3 hours and at 00:10 ev
 
 `crontab -e`
 
-`0 */3 * * * /home/tyranic-moron/stats_gen/sss_desertbus/genStats.sh`
+`0 */3 * * * /path/to/sss_desertbus/genStats.sh`
 
-`10 0 * * * logrotate --state /home/tyranic-moron/stats_gen/sss_desertbus/logrotate.status/home/tyranic-moron/stats_gen/sss_desertbus/logrotate.conf`
+`10 0 * * * logrotate --state /path/to/sss_desertbus/logrotate.status /path/to/sss_desertbus/logrotate.conf`
 
 ## running superseriousstats
 Split single .weechatlog file into daily .weechatlogs
