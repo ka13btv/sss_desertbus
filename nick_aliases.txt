@@ -448,7 +448,7 @@
 1,larscis,larscis_,larscis`
 1,lauph1tup,lauph-1t-up
 1,lazarenth,lazarenth__
-1,lb,lbbot,lbbot_
+1,lb,lbbot,lbbot_,lbboot
 1,leafar,leafar__
 1,legrandloup_,legrandloup
 1,lehteb,lehteb_
