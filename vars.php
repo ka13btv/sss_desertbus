@@ -17,7 +17,7 @@
  */
 $settings['#desertbus'] = [
     'channel' => '#desertbus',
-    'database' => '/home/tyranic-moron/stats_gen/sss_desertbus/desertbus.db3',
+    'database' => '/home/starlitghost/stats_gen/sss_desertbus/desertbus.db3',
     'rankings' => true,
     'timezone' => 'UTC',
     'userstats' => true];
