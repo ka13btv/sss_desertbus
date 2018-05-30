@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Copyright (c) 2016, Matthew Cox <matthewcpcox@gmail.com>
+ * Copyright (c) 2018, StarlitGhost
  */
 
 /**
