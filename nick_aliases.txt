@@ -491,7 +491,7 @@
 1,malfunct,malfunct_,malfunct`
 1,mara,__mara,ma\ra,mara2,mara5,mara_
 1,markus,markus_
-1,mastercheese,mastercheese_,ghastercheese
+1,moxcheese,mxcheese,mastercheese,mastercheese_,ghastercheese
 1,mastergunner,master_gunner,train|gunner,mistressgunner,mistressgunner_,phone|gunner,phone_gunner,phonegunner,phone|gunner_,work|gunner,work_gunner
 1,masterm9099_,masterm9099__
 1,maverick_hunter,maverick_hunter_
