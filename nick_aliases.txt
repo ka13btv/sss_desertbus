@@ -597,7 +597,7 @@
 1,phrixscreoth,phrixscreoth_
 1,physicsman,physicsman_
 1,pienne,pienne_,pienne`
-1,pikachaos,pika_chaos,pikachaos2,employedpika,pika,pika_fon,pikaberry,pikabro,pikabutt,pikacantsleep,pikadanchou,pikahugs,pikawork,pika|finalsdying,workpika
+1,pikachaos,pika,pika_chaos,pikachaos2,employedpika,pika_fon,pikaberry,pikabro,pikabutt,pikacantsleep,pikadanchou,pikahugs,pikawork,pika|finalsdying,workpika,kells
 1,piousheathen,pious_heathen
 1,pockets__,pockets
 1,poop,poop_
