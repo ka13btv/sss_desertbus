@@ -423,7 +423,7 @@
 1,king-of-spades,king-of-spades_
 1,kingkool,kingkool2099
 1,kirkygirl_lappy,kirkygirl_lappy1
-1,kite,kite_
+1,kite,kite_,fairykite
 1,klaxon,klaxon_
 1,knishimura,knishimura2,knishiboner,knishibutt,knishibutts,knishicmdr,knishidix,knishidongs,knishimuranus,knishiswag
 1,knobster,knobster_
