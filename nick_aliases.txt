@@ -27,7 +27,7 @@
 1,admiralmatt,admiralmatt_
 1,admiralmemo,admiral_memo,admiralmemo_away,admiralmemo_sleep,admiralmemo_test,admiralmemo_work
 1,aeliawyndsong,aeliawyndsong_,aeliawyndsong__
-1,aerobang,aerobeing
+1,aerobang,aerobeing,waerobeing
 1,aerocmdr,aerocmdr-phone,aerocmdrmura,aerobutt,aerobutting,aerobutts,aerocaitiri,aerokw,aeromash,aeromesh,aeronimura,aeroshimura,aerowk
 1,aeryn,aerybutt,aerycheese,aerydroid,aerykitty,aerykittysaur,aerymonogatari,aerynheatesbt,aeryn|skyrim,aerysaur,aerysaurus,aeryshower,aerytablet,aerytentacles,aery|bl2,aery|fable3,aery|skyrim,aer|ff13-2,aeroyn,aerteliarorona,aertelierrorona,aery-ff9,aery-lol,aery|lol,deadryn,aereffkay,buttryn,goatryn,kittyryn,maidryn,sleepingryn,sleepyryn,smartryn
 1,agent86,agent_86
@@ -149,6 +149,7 @@
 1,chelle_,chelle
 1,chemistring,chemistring|afk,chemistring|phone
 1,cherubimcw,cherubimcw_
+1,chimingfish,headlessfish
 1,chipptunes,chipptunes_
 1,chrusher,chrusher_,doctor_chrusher,chrusher_work,chrusher_old_mac
 1,chton,chton2
@@ -370,7 +371,7 @@
 1,iserguy,iserguy_,iserguy__
 1,isxdix,isxdix2
 1,itazu,itazu_,ghostytazu
-1,j,jace
+1,j,jace,waj
 1,jack,jack_
 1,jack_king,jack_king_
 1,jake,jake_
@@ -478,7 +479,7 @@
 1,luckystrikeforce,luckystrikeforce_
 1,lumar_,lumar
 1,luna,luna_
-1,lunik1,lunik0,lunik1_,lunik1|lappy,lunik1|lappy486,lunik1|phone,lunik1|phone_,lunik1|android,lunik1|away,lunik1|emacs,lunik1|lappier,lunik1|laptop,lunik1|lunchy,lunik1|mobile,lunik1|munch,lunikmacs,gruenik1
+1,lunik1,lunik0,lunik1_,lunik1|lappy,lunik1|lappy486,lunik1|phone,lunik1|phone_,lunik1|android,lunik1|away,lunik1|emacs,lunik1|lappier,lunik1|laptop,lunik1|lunchy,lunik1|mobile,lunik1|munch,lunikmacs,gruenik1,walunik1
 1,lynt007n,lyn_t007n
 1,lysander,lysander_
 1,m33p,m33p_
@@ -491,8 +492,8 @@
 1,malfunct,malfunct_,malfunct`
 1,mara,__mara,ma\ra,mara2,mara5,mara_
 1,markus,markus_
-1,moxcheese,mxcheese,mastercheese,mastercheese_,ghastercheese
-1,mastergunner,master_gunner,train|gunner,mistressgunner,mistressgunner_,phone|gunner,phone_gunner,phonegunner,phone|gunner_,work|gunner,work_gunner
+1,moxcheese,wamoxy,moxeeek,mxcheese,mastercheese,mastercheese_,ghastercheese
+1,mastergunner,master_gunner,train|gunner,mistressgunner,mistressgunner_,phone|gunner,phone_gunner,phonegunner,phone|gunner_,work|gunner,work_gunner,wagunner
 1,masterm9099_,masterm9099__
 1,maverick_hunter,maverick_hunter_
 1,maya,maya_
@@ -663,7 +664,7 @@
 1,robo4900,robo4900_
 1,robp,robp_
 1,rocketfox45,rocketfox45_
-1,roosevelt,roosevelt_,rooseveltthecat_,rooseveltthecat,roosevellt,roosevelt_fon,roosevelt_gaem,roosevelt_pax,roosevelt_pls,roosevelt_popsicle,roosevelt_stupidlyloggedinagain,roosevelt_tablet,roosevelt_tablet2,roosevelt_win,roosevelt_win2,roosevelt_work,spookevelt,spooksevelt,roo_fon2,roo_fon3,roo_work
+1,roosevelt,roosevelt_,rooseveltthecat_,rooseveltthecat,roosevellt,roosevelt_fon,roosevelt_gaem,roosevelt_pax,roosevelt_pls,roosevelt_popsicle,roosevelt_stupidlyloggedinagain,roosevelt_tablet,roosevelt_tablet2,roosevelt_win,roosevelt_win2,roosevelt_work,spookevelt,spooksevelt,roo_fon2,roo_fon3,roo_work,roomba
 1,rootbreaker,rootbreaker_
 1,rosenightshade,rosenightshade_
 1,roukillingtime,rou-killingtime
@@ -829,7 +830,7 @@
 1,tux789_,tux789__
 1,twodeetwowill,twodeetwowill_
 1,twostepz,twostepz-work
-1,starlitghost,tyranic-moron,t-m[work],t-m|work,tyranic-moron|2,tyranic_moron,tyranicmoron,t-m,t-m[pirate],t-mork,t-m|android,t-m|asleep,t-m|bork,t-m|brork,t-m|chicago,t-m|dip,t-m|jirc,t-m|kwirc,t-m|lunch,t-m|mehbehwork,t-m|pax,t-m|phone,t-m|s3,t-m|seattle,t-m|space,t-m|train,t-m|twerk,tyranic-moron|meng
+1,starlitghost,waaahlitghost,tyranic-moron,t-m[work],t-m|work,tyranic-moron|2,tyranic_moron,tyranicmoron,t-m,t-m[pirate],t-mork,t-m|android,t-m|asleep,t-m|bork,t-m|brork,t-m|chicago,t-m|dip,t-m|jirc,t-m|kwirc,t-m|lunch,t-m|mehbehwork,t-m|pax,t-m|phone,t-m|s3,t-m|seattle,t-m|space,t-m|train,t-m|twerk,tyranic-moron|meng
 1,tytycoon,tytycoon_
 1,u2k,u2k_
 1,ufokraana,ufokraana_
@@ -878,7 +879,7 @@
 1,wykanico,wykanico_
 1,xcelticwolf,xcelticwolf_,xcelticwolf__
 1,xed,xed_
-1,xelareko,xela_reko,ghostofxela,xel|work,xel_work,work|xela,xela,xeladog,xelafako,xelag,xelagecko,xelagibmemahtell,xelapuppehs,xelareco,xelareka,xelareko|cell,xelarexo,xelasniffles,xelaspoops,xelastew,xelatells,xelayzarc,xela|cell,xela|kerbal,xela|lunch,xela|meeting,xela|nude,xela|puppyme,xela|sekrit_doge,xela|sleep,xela|sorry,xela|tellbomb,xela|twerk,xela|wink,xela|work,xela|zombie,xeleton,xeletron,xelfone,xelockper,xelphone,xelularfone,xelu|wurk,xel|avoidingtells,xel|cell,xel|dindin,xel|gone,xel|gunner,xel|nopuppies,xel|notells,xel|notprepared,xel|oops,xel|pf,xel|puppehs,xel|scared,xel|scaredoftells,xel|sekrittwerk,xel|tired,xel|twerk,xel|twerkedout,xel|wonk,xel|work|a
+1,xelareko,xela_reko,ghostofxela,xel|work,xel_work,work|xela,xela,xeladog,xelafako,xelag,xelagecko,xelagibmemahtell,xelapuppehs,xelareco,xelareka,xelareko|cell,xelarexo,xelasniffles,xelaspoops,xelastew,xelatells,xelayzarc,xela|cell,xela|kerbal,xela|lunch,xela|meeting,xela|nude,xela|puppyme,xela|sekrit_doge,xela|sleep,xela|sorry,xela|tellbomb,xela|twerk,xela|wink,xela|work,xela|zombie,xeleton,xeletron,xelfone,xelockper,xelphone,xelularfone,xelu|wurk,xel|avoidingtells,xel|cell,xel|dindin,xel|gone,xel|gunner,xel|nopuppies,xel|notells,xel|notprepared,xel|oops,xel|pf,xel|puppehs,xel|scared,xel|scaredoftells,xel|sekrittwerk,xel|tired,xel|twerk,xel|twerkedout,xel|wonk,xel|work|a,waxela
 1,xm1sf1tx,xm1sf1tx_
 1,xtine_,x_tine,x_tine_,xtine,xtine__,xtine_droid,xtine_pc
 1,xuberfail,xuberfail_,
