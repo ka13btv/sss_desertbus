@@ -879,7 +879,7 @@
 1,wykanico,wykanico_
 1,xcelticwolf,xcelticwolf_,xcelticwolf__
 1,xed,xed_
-1,xelareko,xela_reko,ghostofxela,xel|work,xel_work,work|xela,xela,xeladog,xelafako,xelag,xelagecko,xelagibmemahtell,xelapuppehs,xelareco,xelareka,xelareko|cell,xelarexo,xelasniffles,xelaspoops,xelastew,xelatells,xelayzarc,xela|cell,xela|kerbal,xela|lunch,xela|meeting,xela|nude,xela|puppyme,xela|sekrit_doge,xela|sleep,xela|sorry,xela|tellbomb,xela|twerk,xela|wink,xela|work,xela|zombie,xeleton,xeletron,xelfone,xelockper,xelphone,xelularfone,xelu|wurk,xel|avoidingtells,xel|cell,xel|dindin,xel|gone,xel|gunner,xel|nopuppies,xel|notells,xel|notprepared,xel|oops,xel|pf,xel|puppehs,xel|scared,xel|scaredoftells,xel|sekrittwerk,xel|tired,xel|twerk,xel|twerkedout,xel|wonk,xel|work|a,waxela
+1,xelareko,xela_reko,ghostofxela,xel|work,xel_work,work|xela,xela,xeladog,xelafako,xelag,xelagecko,xelagibmemahtell,xelapuppehs,xelareco,xelareka,xelareko|cell,xelarexo,xelasniffles,xelaspoops,xelastew,xelatells,xelayzarc,xela|cell,xela|kerbal,xela|lunch,xela|meeting,xela|nude,xela|puppyme,xela|sekrit_doge,xela|sleep,xela|sorry,xela|tellbomb,xela|twerk,xela|wink,xela|work,xela|zombie,xeleton,xeletron,xelfone,xelockper,xelphone,xelularfone,xelu|wurk,xel|avoidingtells,xel|cell,xel|dindin,xel|gone,xel|gunner,xel|nopuppies,xel|notells,xel|notprepared,xel|oops,xel|pf,xel|puppehs,xel|scared,xel|scaredoftells,xel|sekrittwerk,xel|tired,xel|twerk,xel|twerkedout,xel|wonk,xel|work|a,waxela,xela|workbot
 1,xm1sf1tx,xm1sf1tx_
 1,xtine_,x_tine,x_tine_,xtine,xtine__,xtine_droid,xtine_pc
 1,xuberfail,xuberfail_,
